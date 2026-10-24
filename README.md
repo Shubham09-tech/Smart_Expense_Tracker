@@ -42,9 +42,8 @@ The project demonstrates practical full-stack development concepts, including RE
 
 ## 🖥️ Application Preview
 
-Add screenshots of your running application to the `screenshots/` directory.
 
-| Dashboard | Transactions |
+| Dashboard | Income vs Expense |
 |---|---|
 | ![Dashboard](Screenshots/Screenshot%20-%201.png) | ![Income vs Expense](Screenshots/Screenshot%20-%202.png) |
 
@@ -62,7 +61,6 @@ Add screenshots of your running application to the `screenshots/` directory.
 | Charts | Recharts, if used in the current frontend |
 | Reports | CSV and PDF export libraries |
 | Development Tools | Git, GitHub, npm, Python virtual environments |
-| Containerization | Docker, Docker Compose configuration |
 
 ## 🚀 Getting Started
 
@@ -75,7 +73,6 @@ Install the following tools before starting:
 - [Node.js and npm](https://nodejs.org/)
 - [Python](https://www.python.org/downloads/)
 - [Git](https://git-scm.com/downloads/)
-- Docker, if you plan to use the containerized setup
 
 ### 1. Clone the Repository
 
@@ -147,7 +144,6 @@ Smart_Expense_Tracker/
 │   └── ...
 ├── screenshots/
 ├── .gitignore
-├── docker-compose.yml
 ├── start-dev.ps1
 ├── package.json
 ├── package-lock.json
