@@ -38,8 +38,6 @@ The project demonstrates practical full-stack development concepts, including RE
 - **Transaction Filtering** — Find transactions using available filters and date ranges.
 - **Responsive Interface** — Access the application through a clean, user-friendly web interface.
 
-*Ensure the listed features match the current implementation of the application.*
-
 ## 🖥️ Application Preview
 
 
