@@ -46,13 +46,11 @@ Add screenshots of your running application to the `screenshots/` directory.
 
 | Dashboard | Transactions |
 |---|---|
-| ![Dashboard](Screenshots/Screenshot - 1.png) | ![Income vs Expense](Screenshots/Screenshot - 2.png) |
+| ![Dashboard](Screenshots/Screenshot%20-%201.png) | ![Income vs Expense](Screenshots/Screenshot%20-%202.png) |
 
 | Expense | Categories |
 |---|---|
-| ![Expense](screenshots/Screenshot - 3.png) | ![Categories](screenshots/Screenshot - 4.png) |
-
-> **Note:** Replace these image paths with your actual screenshot filenames. Remove entries for pages that are not implemented yet.
+| ![Expense](Screenshots/Screenshot%20-%203.png) | ![Categories](Screenshots/Screenshot%20-%204.png) |
 
 ## 🧰 Technology Stack
 
